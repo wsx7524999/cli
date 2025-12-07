@@ -110,14 +110,7 @@ holy server info my_server
 # Start a server
 holy server start my_server
 
-# Stop a server
-holy server stop my_server
-
-# Delete a server
-holy server delete my_server
 ```
-
-Remove all infrastructure created by holy:
 
 ```bash
 holy teardown
